@@ -1,0 +1,43 @@
+body
+{
+    color: black;
+    background: rgb(32, 184, 255);
+}
+.heading
+{
+    width: 50%;
+    font-size: 25px;
+    border: 8px dashed rgb(255, 166, 32)
+}
+#camera
+{
+    border: 10px dashed rgb(255, 166, 32);
+    width: 360px;
+    height: 360px;
+    border-radius: 15px;
+}
+ #result_object_name , #result_object_accuracy
+{
+    color:rgb(0, 0, 0);
+}
+#name
+{
+    border: 10px double rgb(32, 36, 255);
+    width: 150px;
+    height:60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(0, 17, 255)
+}
+.btn
+{
+    border: 10px outset rgb(0, 47, 255);
+}
+#header
+{
+    border: 10px double rgb(255, 166, 32);
+    width:40%;
+    font-size: 35px;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 17, 255);
+}
